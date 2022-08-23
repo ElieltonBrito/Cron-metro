@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+    background: black;
+
+}
+
+.main {
+    text-align: center;
+    letter-spacing: 20px;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    letter-spacing: 25px;
+    font-family: 'Bebas Neue', cursive;
+
+}
+
+h1 {
+
+    text-align: center;
+    color: white;
+    letter-spacing: 20px;
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.blu {
+    background-color: blue;
+    width: 64px;
+    height: 67px;
+    border-color: grey;
+    border-radius: 25%;
+    letter-spacing: center;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.gre {
+    background-color: green;
+    width: 64px;
+    height: 67px;
+    border-color: grey;
+    border-radius: 25%;
+    letter-spacing: center;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.ora {
+    background-color: orange;
+    width: 64px;
+    height: 67px;
+    border-color: grey;
+    border-radius: 25%;
+    letter-spacing: center;
+    text-align: center;
+    margin-bottom: 12px;
+}
